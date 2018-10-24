@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('libZaloSDK-core-v2.3.01.8.jar'))

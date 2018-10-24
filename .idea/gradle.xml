@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Android_MoMoPay_SDK_V2" />
+            <option value="$PROJECT_DIR$/activation" />
+            <option value="$PROJECT_DIR$/additionnal" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/javax" />
+            <option value="$PROJECT_DIR$/javax.mail" />
+            <option value="$PROJECT_DIR$/libvtcpay2.0" />
+            <option value="$PROJECT_DIR$/mail" />
+            <option value="$PROJECT_DIR$/mysql-connector-java-5.1.23-bin" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

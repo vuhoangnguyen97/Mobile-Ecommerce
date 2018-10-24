@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtUsernnameRecovery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/txtPasswordRecovery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nhập mật khẩu mới"
+        android:inputType="textPersonName"
+        android:password="true" />
+
+    <EditText
+        android:id="@+id/txtPasswordRecoveryCheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nhập lại mật khẩu mới"
+        android:inputType="textPersonName"
+        android:password="true" />
+
+    <Button
+        android:id="@+id/btnRecoveryPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="	#8b9dc3"
+        android:text="Khôi phục mật khẩu"
+        android:textStyle="bold" />
+</LinearLayout>

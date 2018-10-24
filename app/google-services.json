@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069829194278",
+    "firebase_url": "https://mobile-shop-1535131843934.firebaseio.com",
+    "project_id": "mobile-shop-1535131843934",
+    "storage_bucket": "mobile-shop-1535131843934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069829194278:android:271b01dc0bc37624",
+        "android_client_info": {
+          "package_name": "com.example.legia.mobileweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069829194278-cjg7fb6tohasfgkcl4p2grsk7d2mi9go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.legia.mobileweb",
+            "certificate_hash": "e2a163bbb0f973261ef51e156d66a39c58fe2ceb"
+          }
+        },
+        {
+          "client_id": "1069829194278-sh15onh1he4qc1ubmo5tg8drqi6k1tgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV6iLfuJYSF3dz7ovLOTIERr6ANylJX7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069829194278-himog6ff0siuovabfejt6nhh08pl2mea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

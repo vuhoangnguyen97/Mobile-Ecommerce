@@ -1,0 +1,9 @@
+include ':app',
+        ':mysql-connector-java-5.1.23-bin',
+        ':javax.mail',
+        ':activation',
+        ':additionnal',
+        ':mail',
+        ':libvtcpay2.0',
+        ':javax',
+        ':Android_MoMoPay_SDK_V2'

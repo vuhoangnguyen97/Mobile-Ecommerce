@@ -1,4 +1,4 @@
-# Mobile-Ecommerce
+# Ứng dụng thương mại điện tử trên mobile
 ## Đồ Án 2018
 ----------------
 ![](cover.png "title") <br/>

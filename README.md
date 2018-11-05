@@ -1,8 +1,8 @@
 [![HitCount](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce.svg)](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce)
 
 # Ứng dụng thương mại điện tử trên mobile - Mobile Ecommerce <br/>
-<h6> Đồ Án 2018 </h6>
-----------------
+<h4> Đồ Án 2018 </h4>
+---------------- <br/>
 ![](cover.png "title") <br/>
 Ứng dụng thương mại điện tử trên thiết bị di động Android <br/>
 Trên môi trường Android <br/>

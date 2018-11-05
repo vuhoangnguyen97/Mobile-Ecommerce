@@ -3,7 +3,6 @@
 # Ứng dụng thương mại điện tử trên mobile - Mobile Ecommerce <br/>
 <h4> Đồ Án 2018 </h4>
 ---------------- <br/>
-[](cover.png "title") <br/>
 Ứng dụng thương mại điện tử trên thiết bị di động Android <br/>
 Trên môi trường Android <br/>
 Mô hình MVC <br/>

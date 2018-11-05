@@ -1,8 +1,10 @@
 [![HitCount](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce.svg)](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce)
 
-# Ứng dụng thương mại điện tử trên mobile
+# Ứng dụng thương mại điện tử trên mobile <br/>
+# Mobile Ecommerce
 ## Đồ Án 2018
 ----------------
+(English Below)
 ![](cover.png "title") <br/>
 Ứng dụng thương mại điện tử trên thiết bị di động Android <br/>
 Trên môi trường Android <br/>
@@ -29,3 +31,15 @@ JUnit Test 4 <br/>
 + Áp dụng sinh trắc vân tay trong việc đăng nhập thanh toán <br/>
 (Và một số các kỹ thuật khác)
 <br/><br/>
+------------------
+# Mobile Ecommerce
+Mobile Ecommerce on Android Devices <br/>
+Some technique which using in this project:
++ Multi Threading <br/>
++ Online Payment</br>
+  + Global: PayPal <br/>
+  + Local payment (Vietnam):  OnePay <br/>
+  + E-Wallet (Vietnam only): MoMo, VTC Pay </br>
+  + Bitcoin (Using Blockchain Technique).
++ Using biometrics: TouchID ( Finger Print)
+(etc)

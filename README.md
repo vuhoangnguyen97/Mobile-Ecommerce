@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce.svg)](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce)
+
 # Ứng dụng thương mại điện tử trên mobile
 ## Đồ Án 2018
 ----------------

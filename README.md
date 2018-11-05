@@ -4,7 +4,6 @@
 <h6> Đồ Án 2018 </h6>
 ----------------
 ![](cover.png "title") <br/>
-(English Below)
 Ứng dụng thương mại điện tử trên thiết bị di động Android <br/>
 Trên môi trường Android <br/>
 Mô hình MVC <br/>

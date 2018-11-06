@@ -1,5 +1,4 @@
-[![HitCount](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce.svg)](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce)
-
+[![HitCount](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce.svg)](http://hits.dwyl.io/vuhoangnguyen97/Mobile-Ecommerce) <br/>
 # Ứng dụng thương mại điện tử trên mobile - Mobile Ecommerce <br/>
 <h4> Đồ Án 2018 </h4>
 ---------------- <br/>
@@ -40,3 +39,8 @@ Some technique which using in this project:
   + Bitcoin (Using Blockchain Technique).
 + Using biometrics: TouchID ( Finger Print)
 (etc)
+<br/></br>
+-----------------
+DEMO: Click on image <br/>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X4S7ENHbmQ0/0.jpg)](https://www.youtube.com/watch?v=X4S7ENHbmQ0)
+
